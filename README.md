@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, my name is Danil, and I'm currently studying at SPbSTU as a Software Engineer!
+##Hey, my name is Danil, and I'm currently studying at SPbSTU as a Software Engineer!
 
 
 # 💻 Tech Stack:
