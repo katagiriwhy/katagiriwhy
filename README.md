@@ -12,10 +12,8 @@ Hey, my name is Danil, and currently I'm studying at SPbSTU as a Software Engine
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=katagiriwhy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=katagiriwhy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
